@@ -1,0 +1,1 @@
+git+ssh://git@github.com/hhru/frontik@6.1.1#egg=frontik
